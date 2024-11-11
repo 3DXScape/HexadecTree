@@ -10,8 +10,8 @@
         // note: clock-time units are picoseconds
         // note: time units are mm = sci * delta t, where delta t is in picoseconds
         //        for example, static environments sci = 0 and delta t  is zero
-        //        for example. for automobiles sci = (100 m/sec * 1000 mm/m) / 1 000 000 000 000 = 10 000 000 mm/ps
-        //        for example, for light sci = (300 000 m/sec * 1000 mm/m) / 1 000 000 000 000 = 30 mm / s
+        //        for example. for automobiles sci = (100 m/sec * 1000 mm/m) / 1 000 000 000 000 = 0.000001 mm/ps
+        //        for example, for light sci = (300 000 000 m/sec * 1000 mm/m) / 1 000 000 000 000 = 0.03 mm / ps
 
     }
 }
